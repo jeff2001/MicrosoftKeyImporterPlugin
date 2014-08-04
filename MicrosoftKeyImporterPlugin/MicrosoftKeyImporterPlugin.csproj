@@ -32,7 +32,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="KeePass, Version=2.19.0.18206, Culture=neutral, PublicKeyToken=fed2ed7716aecf5c, processorArchitecture=MSIL">
-      <ExecutableExtension>.exe</ExecutableExtension>
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\References\KeePass.exe</HintPath>
     </Reference>
     <Reference Include="System" />
